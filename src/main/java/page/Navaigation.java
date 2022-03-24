@@ -6,8 +6,10 @@ public class Navaigation {
 	{
 		System.out.println("switching and navigating");
 	}
-	public void merge()
+	public void conflict()
 	{
-		System.out.println("trying to replicate conflict");
-	}
+		System.out.println("checking conflict");
+
+	
+}
 }
