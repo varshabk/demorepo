@@ -25,7 +25,7 @@ public class TestBase {
 	{
 		prop=new Properties();
 		try {
-			FileInputStream fis=new FileInputStream("D:\\workspace\\hybrid\\src\\main\\java\\config\\config.properties");
+			FileInputStream fis=new FileInputStream("D:\\works\\demorepo\\src\\main\\java\\config\\config.properties");
 		prop.load(fis);
 		} catch (FileNotFoundException e) {
 			
